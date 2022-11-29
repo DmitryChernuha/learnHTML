@@ -3,19 +3,25 @@ body{
 }
 h1{
     color: #fff;
+    font-size: 110px;
 }
 h2{
     color: #fff;
+    font-size: 100px;
 }
 h3{
     color: #fff;
+    font-size: 80px;
 }
 h4{
     color: #fff;
+    font-size: 60px;
 }
 h5{
     color: #fff;
+    font-size: 40px;
 }
 h6{
     color: #fff;
+    font-size: 20px;
 }
